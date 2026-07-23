@@ -17,19 +17,19 @@ A comprehensive C++ application combining user authentication, book management, 
 
 ### Windows (MinGW)
 ```
-g++ -std=c++17 -o login.exe main.cpp ```
+g++ -std=c++17 -o login.exe main.cpp 
 ## Linux/Mac 
 ```
-g++ -std=c++17 -o login main.cpp ```
+g++ -std=c++17 -o login main.cpp 
 
 ## How to Run
 Windows
 ```
-./login.exe ```
+./login.exe 
 
 Linux/Mac
 ```
-./login ```
+./login 
 
 ## Default Users
 Username:	xavi, Password: pass1243
