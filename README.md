@@ -17,20 +17,21 @@ A comprehensive C++ application combining user authentication, book management, 
 
 ### Windows (MinGW)
 ```
-g++ -std=c++17 -o login.exe main.cpp 
+g++ -std=c++17 -o login.exe main.cpp
+```
 ## Linux/Mac 
 ```
 g++ -std=c++17 -o login main.cpp 
-
+```
 ## How to Run
 Windows
 ```
 ./login.exe 
-
+```
 Linux/Mac
 ```
 ./login 
-
+```
 ## Default Users
 Username:	xavi, Password: pass1243
 Username: admin, Password:	admin123
@@ -49,5 +50,5 @@ GitHub: https://github.com/yourusername
 ## About This Project
 This project was created as a personal learning experience to improve my C++ skills. I started learning C++ 2 weeks ago and this is my first complete project.
 
-##Feedback & Suggestions
+## Feedback & Suggestions
 If you have any suggestions for improving my code, feel free to contact me on Discord! I'm always looking to learn and improve.
